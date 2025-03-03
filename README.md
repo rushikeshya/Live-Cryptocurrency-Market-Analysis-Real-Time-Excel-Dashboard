@@ -22,8 +22,8 @@ This data science project fetches live cryptocurrency data using the CoinGecko A
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/crypto-analysis.git
-   cd crypto-analysis
+   git clone https://github.com/rushikeshya/Live-Cryptocurrency-Market-Analysis-Real-Time-Excel-Dashboard.git
+   cd Live-Cryptocurrency-Market-Analysis-Real-Time-Excel-Dashboard
    ```
 
 2. **Install dependencies:**
