@@ -62,11 +62,5 @@ Excel sheet updated successfully!
 - Develop a Flask API to serve real-time data
 - Implement machine learning models for crypto trend prediction
 
-## 🤝 Contributing
-Feel free to fork this project, submit issues, and create pull requests!  
-
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 **⭐ If you found this project useful, consider giving it a star on GitHub! ⭐**
