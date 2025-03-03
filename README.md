@@ -33,7 +33,7 @@ This data science project fetches live cryptocurrency data using the CoinGecko A
 
 3. **Run the script:**
    ```bash
-   python crypto_analysis.py
+   python Python_Script.py
    ```
 
 ## 📌 Usage
